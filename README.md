@@ -2,20 +2,20 @@
 
 **PhD Student | Mechanical Engineer | Developer**
 
-### 💻 Technologies
+### 🛠️ My Digital Toolbelt
 
-**Languages**
+**Languages I Speak**
 `Python` `C` `C++` `JavaScript` `Dart` `HTML` `CSS` `PowerShell` `Bash` `Octave`
 
 **Frameworks & Libraries**
 `Flutter` `React` `Next JS` `Node.js` `FastAPI` `Flask` `OpenCV` `Streamlit` `Vite` `Keras` 
 `Matplotlib` `mlflow` `NumPy` `Pandas` `TensorFlow` `PyTorch` `scikit-learn`
 
-**Cloud & DevOps**
+**Cloud & Magic**
 `AWS` `Azure` `Google Cloud` `Firebase` `Docker` `Git` `GitHub` `Gradle` `Grafana` `Postman`
 
-**Databases**
+**Data Hideouts**
 `MySQL` `MongoDB` `PostgreSQL`
 
-**Design & Engineering**
+**Making Things Pretty**
 `Adobe Photoshop` `Adobe InDesign` `Adobe Illustrator` `Blender` `Figma` `nVIDIA CUDA` `Windows Terminal`
