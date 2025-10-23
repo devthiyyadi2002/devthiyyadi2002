@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Dev Thiyyadi
 I'm an upcoming PhD student at Penn State.<br>A mechanical engineering student with a varying skillset in all things engineering.
 
 ## 🌐 Socials:
