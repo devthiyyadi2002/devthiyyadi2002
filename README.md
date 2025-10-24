@@ -2,8 +2,6 @@
 
 **PhD Student | Mechanical Engineer | Developer**
 
-### 🛠️ My Digital Toolbelt
-
 **Languages I Speak**
 `Python` `C` `C++` `JavaScript` `Dart` `HTML` `CSS` `PowerShell` `Bash` `Octave`
 
