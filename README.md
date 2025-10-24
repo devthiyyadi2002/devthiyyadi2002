@@ -9,7 +9,7 @@
 `Flutter` `React` `Next JS` `Node.js` `FastAPI` `Flask` `OpenCV` `Streamlit` `Vite` `Keras` 
 `Matplotlib` `mlflow` `NumPy` `Pandas` `TensorFlow` `PyTorch` `scikit-learn`
 
-**Cloud & Magic**
+**Cloud**
 `AWS` `Azure` `Google Cloud` `Firebase` `Docker` `Git` `GitHub` `Gradle` `Grafana` `Postman`
 
 **Data Hideouts**
