@@ -16,4 +16,4 @@
 `MySQL` `MongoDB` `PostgreSQL`
 
 **Making Things Pretty**
-`Adobe Photoshop` `Adobe InDesign` `Adobe Illustrator` `Blender` `Figma` `nVIDIA CUDA` `Windows Terminal`
+`Adobe Photoshop` `Adobe InDesign` `Adobe Illustrator` `Blender` `Figma`
